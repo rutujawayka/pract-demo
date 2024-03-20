@@ -1,4 +1,4 @@
 # pract-demo
 This is my repository.
 <br>
-Author - Rutuja Waykar
+Author - Rutuja Mahadev Waykar
